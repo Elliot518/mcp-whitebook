@@ -31,11 +31,15 @@
 
 #### 1) EAL Block 1:
 
+[Catalog](EAL/Catalog.md)
+
 &nbsp;
 
 ### 3. Products of Business Products Layer(BPL)
 
 #### 1) BPL Block 1:
+
+
 
 &nbsp;
 
@@ -104,3 +108,9 @@
 ### 5. Products of Infrastructure Foudation Layer(IFL)
 
 #### 5-1) IFL Block 1:
+
+&nbsp;
+
+### 6. Blueprint Bird View Diagram
+
+![MicroComponent Blueprint V2.0](BluePrintV2.png)
