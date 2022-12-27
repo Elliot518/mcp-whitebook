@@ -19,98 +19,51 @@
 
 | Name     | Description                                          |
 | -------- | ---------------------------------------------------- |
-| Service  | Small scale logically combined microservices units.  |
-| Center   | Middle scale logically combined microservices units. |
-| Platform | Large scale logically combined microservices units.  |
+| Service  | Small scale logically combined microservices units.<br>Containing just server side code.  |
+| Center   | Middle scale logically combined microservices units.<br>Containing both server side and front end code. |
+| Platform | Large scale logically combined microservices units.<br>Containing several server side and front end code.  |
+| Warehouse | A bunch of code gathering together for developers to pick. |
 
 ####Platform > Center > Service
+####Warehouse = Code Templates
 
 &nbsp;
 
-### 2. Products of Ecosystem Adapter Layer(EAL)
+### 2. Main catalogs of blocks in four layers
+#### 2-1. Ecosystem Adapter Layer(EAL)
 
-#### 1) EAL Block 1:
+| Block Name | Catalog Link         |
+| -------- | -----------------------|
+| B2C Business | [Catalog](EAL/Block1/Catalog.md) |
+| Intelligent Industry | [Catalog](EAL/Block2/Catalog.md) |
 
-[Catalog](EAL/Catalog.md)
+<hr>
+
+#### 2-2. Business Products Layer(BPL)
+
+| Block Name | Catalog Link         |
+| -------- | -----------------------|
+| Enterprise Management Block | [Catalog](BPL/Block1/Catalog.md) |
+| Electronic Commerce Block | [Catalog](BPL/Block2/Catalog.md) |
+| Investment Block | [Catalog](BPL/Block3/Catalog.md) |
+
+<hr>
+
+#### 2-3. Components Supporting Layer(CSL)
+
+| Block Name | Catalog Link         |
+| -------- | -----------------------|
+| Service Management Block | [Catalog](CSL/Block1/Catalog.md) |
+| Enterprise Components Block | [Catalog](CSL/Block2/Catalog.md) |
+| Security Block | [Catalog](CSL/Block3/Catalog.md) |
+| Artificial Intelligence Block | [Catalog](CSL/Block4/Catalog.md) |
+| Massive Storage Block | [Catalog](CSL/Block5/Catalog.md) |
+| Infrastructure Block | [Catalog](CSL/Block6/Catalog.md) |
+| Application Diagnostic Block | [Catalog](CSL/Block7/Catalog.md) |
+| Components Warehouse Block | [Catalog](CSL/Block8/Catalog.md) |
 
 &nbsp;
 
-### 3. Products of Business Products Layer(BPL)
-
-#### 1) BPL Block 1:
-
-
-
-&nbsp;
-
-### 4. Products of Components Supporting Layer(CSL)
-
-#### 1) CSL Block 1: Servcie Management Block(SMB)
-
-| Repository Name | Description                               |
-| --------------- | ----------------------------------------- |
-| mcp-rsc         | Remote service center of micro-component. |
-
-<hr>
-
-#### 2) CSL Block 2: Message Management Block(MMB)
-
-| Repository Name | Description                                      |
-| --------------- | ------------------------------------------------ |
-| mcp-mcc         | Message communication center of micro-component. |
-
-<hr>
-
-#### 3) CSL Block 3: 
-
-<hr>
-
-#### 4) CSL Block 4:
-
-<hr>
-
-#### 5) CSL Block 5: Massive Storage Block
-
-> Definition: Massive data storage products block including fast centralized cache service, including RDBMS and NoSQL massive data storage and fast and high performance query. Solutions will include databases and tables sharding, big data storage(eg: hive, hbase, es, mongodb etc), including non-structured objects storage management(eg: files, images, audios, videos and other big objects), providing online preview and query APIs.
-
-| Repository Name | Description                                          |
-| --------------- | ---------------------------------------------------- |
-| mcp-ccs | Centralized cache service of micro-component. |
-| mcp-msp         | Massive storage platform of micro-component.          |
-| mcp-osc        | Objects storage center of micro-component. |
-
-<hr>
-
-#### 6) CSL Block 6: Infrastructure Block
-
-| Repository Name | Description                              |
-| --------------- | ---------------------------------------- |
-| mcp-sms         | Send message service of micro-component. |
-| mcp-ms          | Mail service of micro-component.         |
-
-<hr>
-
-#### 7) CSL Block 7: Application Diagnostic Block
-
-| Repository Name | Description                    |
-| --------------- | ------------------------------ |
-| mcp-lc          | Log center of micro-component. |
-
-<hr>
-
-### 8) CSL Block 8: Artificial Intelligence Block
-
-| Repository Name | Description |
-| --------------- | ----------- |
-
-&nbsp;
-
-### 5. Products of Infrastructure Foudation Layer(IFL)
-
-#### 5-1) IFL Block 1:
-
-&nbsp;
-
-### 6. Blueprint Bird View Diagram
+### 3. Blueprint Bird View Diagram
 
 ![MicroComponent Blueprint V2.0](BluePrintV2.png)
