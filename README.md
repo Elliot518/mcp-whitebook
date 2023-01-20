@@ -67,3 +67,13 @@
 ### 3. A Bird View Blue Print of MicroComponent V2
 
 ![MicroComponent Blueprint V2.0](BluePrintV2.png)
+
+&nbsp;
+
+### 4. Zeus Data Center
+
+- Aegis Data Warehouse
+- Wind
+- Rain
+- Thunder
+- Bolt
