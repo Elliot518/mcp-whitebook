@@ -60,7 +60,7 @@
 | Massive Storage Block | [Catalog](CSL/Block5/Catalog.md) |
 | Infrastructure Block | [Catalog](CSL/Block6/Catalog.md) |
 | Application Diagnostic Block | [Catalog](CSL/Block7/Catalog.md) |
-| Components Warehouse Block | [Catalog](CSL/Block8/Catalog.md) |
+| Components Warehouse Block | [Catalog](CSL/Block8/README.md) |
 
 &nbsp;
 
