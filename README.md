@@ -12,8 +12,8 @@
 - Infrastructure Foudation Layer(IFL)
   It is the foundation of micro-component just like the base of the house.
 
-#####Each layer of architecture contains several blocks.
-#####Blocks are logical combinations of products belong to the layer.
+##### Each layer of architecture contains several blocks.
+##### Blocks are logical combinations of products belong to the layer.
 
 - Nomenclatures
 
