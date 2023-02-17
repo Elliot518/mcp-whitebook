@@ -24,8 +24,8 @@
 | Platform | Large scale logically combined microservices units.<br>Containing several server side and front end code.  |
 | Warehouse | A bunch of code gathering together for developers to pick. |
 
-####Platform > Center > Service
-####Warehouse = Code Templates
+#### Platform > Center > Service
+#### Warehouse = Code Templates
 
 &nbsp;
 
