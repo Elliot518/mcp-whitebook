@@ -53,7 +53,7 @@
 
 | Block Name | Catalog Link         |
 | -------- | -----------------------|
-| Service Management Block | [Catalog](CSL/Block1/Catalog.md) |
+| Service Management Block | [Catalog](CSL/Block1/README.md) |
 | Enterprise Components Block | [Catalog](CSL/Block2/Catalog.md) |
 | Security Block | [Catalog](CSL/Block3/Catalog.md) |
 | Artificial Intelligence Block | [Catalog](CSL/Block4/Catalog.md) |
