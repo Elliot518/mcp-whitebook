@@ -1,7 +1,7 @@
 [Back](../../README.md)
 
 ## CSL -> Service Management Block
->Service management block aims at managing the microservices both RESTful and RPC, also it has a message communication center to control all the async message communications based on the event driven architecture.
+>Service management block is to managing the microservices both RESTful and RPC, also it has a message communication center to control all the async message communications based on the event driven architecture.
 
 <hr>
 
