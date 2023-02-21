@@ -49,7 +49,7 @@
 
     Response:
     ```
-    mcp-ddd-skeleton显示:
+    [mcp-ddd-skeleton]:
     2023-02-21 20:24:38.039 [http-nio-8095-exec-1] INFO  com.mcp.ddd.skeleton.api.controller.test.TestController -From remote call - method name: processEvent, payload: { "a": "test a", "b": "test b"}
     ```
 
