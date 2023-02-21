@@ -34,8 +34,8 @@
 
 | Block Name | Catalog Link         |
 | -------- | -----------------------|
-| B2C Business | [Catalog](EAL/Block1/Catalog.md) |
-| Intelligent Industry | [Catalog](EAL/Block2/Catalog.md) |
+| B2C Business | [README](EAL/Block1/Catalog.md) |
+| Intelligent Industry | [README](EAL/Block2/Catalog.md) |
 
 <hr>
 
@@ -43,9 +43,9 @@
 
 | Block Name | Catalog Link         |
 | -------- | -----------------------|
-| Enterprise Management Block | [Catalog](BPL/Block1/Catalog.md) |
-| Electronic Commerce Block | [Catalog](BPL/Block2/Catalog.md) |
-| Investment Block | [Catalog](BPL/Block3/Catalog.md) |
+| Enterprise Management Block | [README](BPL/Block1/Catalog.md) |
+| Electronic Commerce Block | [README](BPL/Block2/Catalog.md) |
+| Investment Block | [README](BPL/Block3/Catalog.md) |
 
 <hr>
 
@@ -53,14 +53,14 @@
 
 | Block Name | Catalog Link         |
 | -------- | -----------------------|
-| Service Management Block | [Catalog](CSL/Block1/README.md) |
-| Enterprise Components Block | [Catalog](CSL/Block2/Catalog.md) |
-| Security Block | [Catalog](CSL/Block3/Catalog.md) |
-| Artificial Intelligence Block | [Catalog](CSL/Block4/Catalog.md) |
-| Massive Storage Block | [Catalog](CSL/Block5/Catalog.md) |
-| Infrastructure Block | [Catalog](CSL/Block6/Catalog.md) |
-| Application Diagnostic Block | [Catalog](CSL/Block7/Catalog.md) |
-| Components Warehouse Block | [Catalog](CSL/Block8/README.md) |
+| Service Management Block | [README](CSL/Block1/README.md) |
+| Enterprise Components Block | [README](CSL/Block2/Catalog.md) |
+| Security Block | [README](CSL/Block3/Catalog.md) |
+| Artificial Intelligence Block | [README](CSL/Block4/Catalog.md) |
+| Massive Storage Block | [README](CSL/Block5/Catalog.md) |
+| Infrastructure Block | [README](CSL/Block6/Catalog.md) |
+| Application Diagnostic Block | [README](CSL/Block7/Catalog.md) |
+| Components Warehouse Block | [README](CSL/Block8/README.md) |
 
 &nbsp;
 
