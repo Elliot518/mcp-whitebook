@@ -73,12 +73,27 @@
 ### 4. Zeus Data Center
 
 - Aegis Data Warehouse
+  >It is the warehouse where Zeus Data Center stores data.
+
+&nbsp;
+
 - Wind
-- Rain
+
+&nbsp;
+
+- Rain ([Readme](ZDC/Rain/README.md))
+  >Data batch&stream processing
+
+&nbsp;
+
 - Thunder
+
+&nbsp;
+
 - Bolt
 
-![Zeus Data Center V1.0](ZeusDataCenterV1.png)
+&nbsp;
 
+![Zeus Data Center V1.0](ZeusDataCenterV1.png)
 
 
