@@ -2,5 +2,3 @@
 
 <hr>
 
-### Tiger Server
-

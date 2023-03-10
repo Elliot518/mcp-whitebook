@@ -96,4 +96,12 @@
 
 ![Zeus Data Center V1.0](ZeusDataCenterV1.png)
 
+&nbsp;
+
+### 5. Servers (LAN & Cloud)
+
+[Intranet Servers](Servers/Intranet/README.md)
+
+[Internet Servers](Servers/Internet/README.md)
+
 
