@@ -6,21 +6,21 @@
 
 ### 1. Servers@AliCloud
 
-- Zeus ([README](xx/xx/README.md))
+- Zeus ([README](AliCloud/Zeus/README.md))
 
 &nbsp;
 
 ### 2. Servers@TencentCloud
 
-- Sagittarius ([README](xx/xx/README.md))
+- Sagittarius ([README](TencentCloud/Sagittarius/README.md))
 
-- Libra ([README](xx/xx/README.md))
+- Libra ([README](TencentCloud/Libra/README.md))
 
-- Taurus ([README](xx/xx/README.md))
+- Taurus ([README](TencentCloud/Taurus/README.md))
 
-- Dragon ([README](xx/xx/README.md))
+- Dragon ([README](TencentCloud/Dragon/README.md))
 
-- Guard ([README](xx/xx/README.md))
+- Guard ([README](TencentCloud/Guard/README.md))
 
 &nbsp;
 
