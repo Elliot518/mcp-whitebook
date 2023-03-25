@@ -78,15 +78,17 @@
 &nbsp;
 
 - Wind
+  >It is the data lake warehouse platform where Zeus Data Center stores various data.
 
 &nbsp;
 
 - Rain ([Readme](ZDC/Rain/README.md))
-  >Data batch&stream processing
+  >It is data batch&stream processing platform of Zeus Data Center.
 
 &nbsp;
 
 - Thunder
+  >It is data API platform where Zeus Data Center queries and updates data.
 
 &nbsp;
 
