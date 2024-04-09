@@ -14,6 +14,10 @@
 
 > Service Register Center is called mcp-src.
 
+#### 2-1) Netflix Module
+- MCP Eureka Discover
+![MCP Eureka Discover](https://github.com/Elliot518/mcp-oss-tech/blob/main/architecture/mcp/CSL/mcp-src.png?raw=true)
+
 &nbsp;
 
 ### 3) Message Communication Center
