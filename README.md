@@ -64,9 +64,9 @@
 
 &nbsp;
 
-### 3. A Bird View Blue Print of MicroComponent V2
+### 3. A bird view of the blue print of MicroComponent (Studio Version) V0.1
 
-![MicroComponent Blueprint V2.0](BluePrintV2.png)
+![MicroComponent (Studio Version) V0.1](BluePrintV2.png)
 
 &nbsp;
 
