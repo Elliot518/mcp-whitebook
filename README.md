@@ -95,9 +95,6 @@
 - Bolt
   >It provides artificial intelligence capabilities for Zeus Data Center.
 
-&nbsp;
-
-![Zeus Data Center V1.0](ZeusDataCenterV1.png)
 
 &nbsp;
 
