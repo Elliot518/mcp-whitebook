@@ -1,21 +1,23 @@
 [Back](../../README.md)
 
 ## CSL -> Service Management Block
->Service management block is to managing the microservices both RESTful and RPC, also it has a message communication center to control all the async message communications based on the event driven architecture.
+> Service management block is to managing the microservices both RESTful and RPC, also it has a message communication center to control all the async message communications based on the event driven architecture.
 
 <hr>
 
 ### 1) Remote Service Center
->Remote service center is called mcp-rsc.
+> Remote service center is called mcp-rsc.
 
 &nbsp;
 
 ### 2) Service Register Center
 
+> Service Register Center is called mcp-src.
+
 &nbsp;
 
 ### 3) Message Communication Center
->Message communication center is called mcp-mcc, it is the most important asynchronous component of micro-component platform. Developers can use it as the bridge to send messages or domain event via popular message middle-wares like apache kafka or rabbit mq etc.
+> Message communication center is called mcp-mcc, it is the most important asynchronous component of micro-component platform. Developers can use it as the bridge to send messages or domain event via popular message middle-wares like apache kafka or rabbit mq etc.
 
 ##### 3-1) Send & Process Remote Event Demo
 
