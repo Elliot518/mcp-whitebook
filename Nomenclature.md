@@ -28,4 +28,4 @@
 
 - Biz Domain
 
-    eg: e-Commerce, MIS, Platform, SupplyChain
+    eg: e-Commerce, IMS, Platform, SupplyChain
